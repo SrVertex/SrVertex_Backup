@@ -1,6 +1,15 @@
 ### Ola, Eu Sou Leonardo, criador da SrVertex :coffee:
 
-
 Comecei minha carreira como programador fazendo conteudos para o jogo
 
 <img src="FS22_1c_long_white.png">
+
+• Trabalhei com Projetos pessoais contribuindo com conteudo adicional pro jogo diretamente na Plataforma oficial Da Empresa GIANTS SOFTWARE.
+Parceiros:
+
+• Estudante de Front-end na <a href="https://www.alura.com.br/">Alura</a><br>
+
+• Trabalhos com Modelagem LowPoly e reacriacao de maquinas agricolas para jogos, Junto da Empresa Connect Modding, 
+prestando servicos pra empresas como <a href="https://www.jan.com.br">Jan</a><br> ,
+ <a href="https://www.alura.com.br/">Alura</a><br> <a href="https://www.alura.com.br/">Alura</a><br>
+
