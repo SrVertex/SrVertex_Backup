@@ -57,7 +57,6 @@ Parceiros De Desenvolvimento:
 
 <img height="50" src="SrVertex_LOWRESOLUTION.png"> <img height="50" src="MiottoLOGO.png"> <img height="50" src="ZtModding.png"> <img height="50" src="TiikModding.png">
 
-<br>
 
 <a href="https://www.facebook.com/Sr.Vertex">
  <img height="130"   src="SrVertexModding.png">
