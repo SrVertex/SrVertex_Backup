@@ -22,10 +22,6 @@ Parceiros:
 </a>  **CONNECT MODDING**
 -prestando servicos pra empresas como:
 
-<a href="https://www.jan.com.br">Jan Implementos Agrícolas</a><br>
-<a href="https://piccin.com.br">Grupo Piccin</a><br>
-<a href="https://jacto.com/brasil">Jacto</a><br>
-
 <a href="https://www.jan.com.br">
  <img height="50"   src="jan.png">
 </a>
