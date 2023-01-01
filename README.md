@@ -22,11 +22,9 @@ Comecei minha carreira como programador fazendo conteudos para o jogo
 <a href="https://www.jan.com.br">
  <img height="50"   src="jan.png">
 </a>
-
 <a href="https://piccin.com.br">
  <img height="50" src="piccin.png">
 </a>
-
 <a href="https://jacto.com">
  <img height="50"   src="jacto.png">
 </a>
