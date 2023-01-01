@@ -26,3 +26,15 @@ Parceiros:
 <a href="https://piccin.com.br">Grupo Piccin</a><br>
 <a href="https://jacto.com/brasil">Jacto</a><br>
 
+<a href="https://www.jan.com.br">
+ <img height="30"   src="https://static.wixstatic.com/media/e7b4e1_18ad830ac94a464b9c4a071b3292f970~mv2.jpg/v1/fill/w_232,h_116,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/jan.jpg">
+</a>
+
+<a href="https://piccin.com.br">
+ <img height="30" src="https://static.wixstatic.com/media/e7b4e1_d97992f9c0174854b6aeb94a6b96819b~mv2.jpg/v1/fill/w_232,h_116,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/piccin.jpg">
+</a>
+
+<a href="https://jacto.com">
+ <img height="30"   src="https://static.wixstatic.com/media/e7b4e1_860f2954c12b492f98efd0bc0071ec02~mv2.jpg/v1/fill/w_200,h_100,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/jacto.jpg">
+</a>
+
