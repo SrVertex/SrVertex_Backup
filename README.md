@@ -27,7 +27,7 @@ Parceiros:
 <a href="https://jacto.com/brasil">Jacto</a><br>
 
 <a href="https://www.jan.com.br">
- <img height="30"   src="https://static.wixstatic.com/media/e7b4e1_18ad830ac94a464b9c4a071b3292f970~mv2.jpg/v1/fill/w_232,h_116,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/jan.jpg">
+ <img height="30"   src="https://www.jan.com.br/images/SVG/logo-jan.svg">
 </a>
 
 <a href="https://piccin.com.br">
