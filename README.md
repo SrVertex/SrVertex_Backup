@@ -57,12 +57,6 @@ Fazendo os Seguintes Cursos Na Plataforma - <a href="https://www.udemy.com">
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 Parceiros De Desenvolvimento:
