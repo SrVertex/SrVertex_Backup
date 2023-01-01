@@ -1,3 +1,5 @@
 ### Ola, Eu Sou Leonardo, criador da SrVertex :coffee:
 
-<img src="SrVertex_LOWRESOLUTION.png">
+
+Comecei minha carreira como programador fazendo conteudos para o jogo
+<img src="FS22_1c_long_white.pngg">
