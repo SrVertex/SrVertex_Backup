@@ -5,9 +5,9 @@ Comecei minha carreira como programador fazendo conteudos para o jogo
 <img height="30"   src="FS22_1c_long_white.png">
 
 • Trabalhei com Projetos pessoais contribuindo com conteudo adicional pro jogo diretamente na Plataforma Oficial Da Empresa 
-<code><img height="30" src="https://www.giants-software.com/img/content/logo_revers.png"></code><br>
+<code><img height="30" src="https://www.giants-software.com/img/content/logo.png"></code><br>
 
-<img height="30"   src="logo.png" href="https://www.jan.com.br">
+<img height="30" src="logo.png" href="https://www.jan.com.br">
 
 
 Parceiros:
