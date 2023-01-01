@@ -21,7 +21,7 @@ Parceiros:
 <a href="https://www.connectmodding.com">
  <img height="50"   src="https://scontent-gru1-1.xx.fbcdn.net/v/t39.30808-6/316280057_3259828594276257_7293604540288258763_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFYKCag7fNIwAC7vPY8eHpWU9ZKPa0A3uFT1ko9rQDe4WTkhjy1yHhs0bwaC5EOaM7R_T_cXFjZwnk8P6V3yy6j&_nc_ohc=LXQkUlISzAcAX_b2gpm&_nc_ht=scontent-gru1-1.xx&oh=00_AfANFb2yYsLGkgcLXgiGjSuU9_NScz3k8jxn-d3u6NJpKA&oe=63B6D9E6">
 </a>
-### CONNECT MODDING
+**CONNECT MODDING**
 
 prestando servicos pra empresas como:
 
