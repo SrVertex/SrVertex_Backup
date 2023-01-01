@@ -41,7 +41,7 @@ Comecei minha carreira como programador fazendo conteudos para o jogo
 
 Parceiros De Desenvolvimento:
 
-<img height="50" src="SrVertex_LOWRESOLUTION.png"> <img height="80" src="MiottoLOGO.png"> <img height="50" src="ZtModding.png"> <img height="50" src="TiikModding.png">
+<img height="50" src="SrVertex_LOWRESOLUTION.png"> <img height="50" src="MiottoLOGO.png"> <img height="50" src="ZtModding.png"> <img height="50" src="TiikModding.png">
 
 
 
