@@ -1,7 +1,7 @@
 ### Ola, Eu Sou Leonardo, criador da SrVertex :coffee:
 
-Comecei minha carreira como programador fazendo conteudos para o jogo
-<br>
+:high_brightness: Comecei minha carreira como programador fazendo conteudos para o jogo
+
 <a href="https://www.farming-simulator.com/index.php?lang=en&country=pt">
  <img height="30"   src="FS22_1c_long_white.png">
 </a>
@@ -49,11 +49,11 @@ Veja Mais dos Meus Trabalhos nos Jogos
 <br>
 <br>
 
-Fazendo os Seguintes Cursos Na Plataforma - <a href="https://www.udemy.com">
+:books: Fazendo os Seguintes Cursos Na Plataforma - <a href="https://www.udemy.com">
  <img height="30"   src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg">
 </a>
 
-• Estudando Programação em Desenvolvimento Web
+• Estudando Programação em Desenvolvimento Web :computer:
 
 <br>
 <br>
