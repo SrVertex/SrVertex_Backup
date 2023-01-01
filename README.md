@@ -1,7 +1,7 @@
 ### Ola, Eu Sou Leonardo, criador da SrVertex :coffee:
 
 Comecei minha carreira como programador fazendo conteudos para o jogo
-
+<br>
 <a href="https://www.farming-simulator.com/index.php?lang=en&country=pt">
  <img height="30"   src="FS22_1c_long_white.png">
 </a>
