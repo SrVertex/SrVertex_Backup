@@ -35,6 +35,6 @@ Parceiros:
 </a>
 
 <a href="https://jacto.com">
- <img height="50"   src="jacto.png">
+ <img height="100"   src="jacto.png">
 </a>
 
