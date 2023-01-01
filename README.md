@@ -46,7 +46,14 @@ Fazendo os Seguintes Cursos Na Plataforma <a href="https://www.udemy.com">
 • Estudando Modelagem Autodesk Maya
 
 
+<br>
 
+
+
+
+
+
+<br>
 
 
 Parceiros De Desenvolvimento:
