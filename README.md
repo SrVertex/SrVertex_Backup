@@ -6,7 +6,8 @@
  <img height="30"   src="FS22_1c_long_white.png">
 </a>
 
-
+<br>
+<br>
 
 • Trabalhei com Projetos pessoais contribuindo com conteudo adicional pro jogo diretamente na Plataforma Oficial Da Empresa 
 <a href="https://www.giants-software.com">
