@@ -10,6 +10,5 @@ Parceiros:
 • Estudante de Front-end na <a href="https://www.alura.com.br/">Alura</a><br>
 
 • Trabalhos com Modelagem LowPoly e reacriacao de maquinas agricolas para jogos, Junto da Empresa Connect Modding, 
-prestando servicos pra empresas como <a href="https://www.jan.com.br">Jan</a><br> ,
- <a href="https://www.alura.com.br/">Alura</a><br> <a href="https://www.alura.com.br/">Alura</a><br>
+prestando servicos pra empresas como <a href="https://www.jan.com.br">Jan Implementos Agrícolas</a><br>, <a href="https://piccin.com.br">Grupo Piccin</a><br>, <a href="https://jacto.com/brasil">Jacto</a><br>
 
