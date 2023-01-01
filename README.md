@@ -39,12 +39,7 @@ Fazendo os Seguintes Cursos Na Plataforma <a href="https://www.udemy.com">
  <img height="30"   src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg">
 </a>
 <br>
-<br>
 • Estudando Programação em Desenvolvimento Web
-• Estudando Edicao de Video Em Adobe Premiere
-• Estudando Edicao de Video Em Adobe Photoshop
-• Estudando Modelagem Autodesk Maya
-
 
 <br>
 <br>
@@ -54,7 +49,6 @@ Fazendo os Seguintes Cursos Na Plataforma <a href="https://www.udemy.com">
 <br>
 <br>
 <br>
-
 
 
 Parceiros De Desenvolvimento:
