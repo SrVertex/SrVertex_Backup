@@ -7,6 +7,7 @@ Comecei minha carreira como programador fazendo conteudos para o jogo
 </a>
 
 
+
 • Trabalhei com Projetos pessoais contribuindo com conteudo adicional pro jogo diretamente na Plataforma Oficial Da Empresa 
 <a href="https://www.giants-software.com">
  <img height="30" src="logo.png"/>
