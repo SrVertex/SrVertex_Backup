@@ -35,8 +35,8 @@ Comecei minha carreira como programador fazendo conteudos para o jogo
 <br>
 <br>
 
-Fazendo os Seguintes Cursos Na Plataforma <a href="https://www.udemy.com">
- <img height="30"   src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg">
+Fazendo os Seguintes Cursos Na Plataforma - <a href="https://www.udemy.com">
+ <img height="30"   src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy-inverted.svg">
 </a>
 <br>
 • Estudando Programação em Desenvolvimento Web
