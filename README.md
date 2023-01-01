@@ -2,23 +2,30 @@
 
 Comecei minha carreira como programador fazendo conteudos para o jogo
 
-<img height="30"   src="FS22_1c_long_white.png">
+<a href="https://www.farming-simulator.com/index.php?lang=en&country=pt">
+ <img height="30"   src="FS22_1c_long_white.png">
+</a>
+
 
 • Trabalhei com Projetos pessoais contribuindo com conteudo adicional pro jogo diretamente na Plataforma Oficial Da Empresa 
-<code><img height="30" src="https://www.giants-software.com/img/content/logo.png"></code><br>
-
-
 <a href="https://www.giants-software.com">
  <img height="30" src="logo.png"/>
 </a>
 
 
-
-
 Parceiros:
 
 
-• Trabalhos com Modelagem LowPoly e reacriacao de maquinas agricolas para jogos, Junto da Empresa <a href="https://www.connectmodding.com">Connect Modding</a><br>,
+• Trabalhos com Modelagem LowPoly e reacriacao de maquinas agricolas para jogos, Junto da Empresa 
+
+
+<a href="https://www.connectmodding.com">Connect Modding</a><br>
+
+<a href="https://www.connectmodding.com">
+ <img height="30"   src="FS22_1c_long_white.png">
+</a>
+
+
 prestando servicos pra empresas como:
 
 <a href="https://www.jan.com.br">Jan Implementos Agrícolas</a><br>
