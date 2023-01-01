@@ -17,19 +17,12 @@
 Veja Mais dos Meus Trabalhos nos Jogos 
 <br>
 <img height="30" src="modHubLogo_4c.png"/> Farming Simulator 19:
-<a href="https://www.farming-simulator.com/mods.php?lang=en&country=pt&title=fs2019&filter=org&org_id=168574&page=0">Meus Projetos</a><br>
+<a href="https://www.farming-simulator.com/mods.php?lang=en&country=pt&title=fs2019&filter=org&org_id=168574&page=0">Meus Projetos</a>
 <br>
 <img height="30" src="modHubLogo_4c.png"/> Farming Simulator 22:
-<a href="https://www.farming-simulator.com/mods.php?lang=en&country=pt&title=fs2022&filter=org&org_id=168574&page=0">Meus Projetos</a><br>
-
- 
+<a href="https://www.farming-simulator.com/mods.php?lang=en&country=pt&title=fs2022&filter=org&org_id=168574&page=0">Meus Projetos</a>
 
 <br>
-
-
-
-
-
 
 • Trabalhos com Modelagem LowPoly e reacriacao de maquinas agricolas para jogos, Junto da Empresa-
 <a href="https://www.connectmodding.com">
@@ -64,8 +57,12 @@ Parceiros De Desenvolvimento:
 
 <img height="50" src="SrVertex_LOWRESOLUTION.png"> <img height="50" src="MiottoLOGO.png"> <img height="50" src="ZtModding.png"> <img height="50" src="TiikModding.png">
 
+<br>
+<br>
+
+
 <a href="https://www.facebook.com/Sr.Vertex">
- <img height="30"   src="SrVertexModding.png">
+ <img height="130"   src="SrVertexModding.png">
 </a>
 
 
