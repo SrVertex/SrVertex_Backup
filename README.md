@@ -31,10 +31,10 @@ Parceiros:
 </a>
 
 <a href="https://piccin.com.br">
- <img height="50" src="piccin.png">
+ <img height="35" src="piccin.png">
 </a>
 
 <a href="https://jacto.com">
- <img height="100"   src="jacto.png">
+ <img height="35"   src="jacto.png">
 </a>
 
